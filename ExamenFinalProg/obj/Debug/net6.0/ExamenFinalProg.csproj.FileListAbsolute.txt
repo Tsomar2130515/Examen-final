@@ -1,0 +1,15 @@
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\bin\Debug\net6.0\ExamenFinalProg.exe
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\bin\Debug\net6.0\ExamenFinalProg.deps.json
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\bin\Debug\net6.0\ExamenFinalProg.runtimeconfig.json
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\bin\Debug\net6.0\ExamenFinalProg.dll
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\bin\Debug\net6.0\ExamenFinalProg.pdb
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\obj\Debug\net6.0\ExamenFinalProg.csproj.AssemblyReference.cache
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\obj\Debug\net6.0\ExamenFinalProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\obj\Debug\net6.0\ExamenFinalProg.AssemblyInfoInputs.cache
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\obj\Debug\net6.0\ExamenFinalProg.AssemblyInfo.cs
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\obj\Debug\net6.0\ExamenFinalProg.csproj.CoreCompileInputs.cache
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\obj\Debug\net6.0\ExamenFinalProg.dll
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\obj\Debug\net6.0\refint\ExamenFinalProg.dll
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\obj\Debug\net6.0\ExamenFinalProg.pdb
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\obj\Debug\net6.0\ExamenFinalProg.genruntimeconfig.cache
+C:\Users\2130515\Documents\Code\Prog2\ExamenFinalProg\ExamenFinalProg\obj\Debug\net6.0\ref\ExamenFinalProg.dll
